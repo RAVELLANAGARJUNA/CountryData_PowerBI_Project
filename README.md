@@ -41,8 +41,6 @@ To develop an interactive and insight-driven dashboard that enables users to exp
 
 ![Dashboard Screenshot](country_dashboard.png)
 
-*Ensure the image file is stored inside a folder named `screenshots` in your repository.*
-
 ## Business Insights Delivered
 
 - Identify countries with the highest GDP and Population

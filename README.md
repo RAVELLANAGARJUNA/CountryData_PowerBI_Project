@@ -39,7 +39,7 @@ To develop an interactive and insight-driven dashboard that enables users to exp
 
 ## Dashboard Screenshot
 
-![Dashboard Screenshot](Output_Visualizations/country_dashboard.png)
+![Dashboard Screenshot](country_dashboard.png)
 
 
 ## Business Insights Delivered

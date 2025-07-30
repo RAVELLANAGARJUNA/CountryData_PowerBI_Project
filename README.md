@@ -39,7 +39,7 @@ To develop an interactive and insight-driven dashboard that enables users to exp
 
 ## Dashboard Screenshot
 
-![Dashboard Screenshot](country_dashboard.png)
+![Dashboard Screenshot](D:\CountryData_PowerBI_Project\country_dashboard.png)
 
 ## Business Insights Delivered
 
